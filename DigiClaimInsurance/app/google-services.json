@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "615762764001",
+    "firebase_url": "https://digiclaiminsurance.firebaseio.com",
+    "project_id": "digiclaiminsurance",
+    "storage_bucket": "digiclaiminsurance.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:615762764001:android:a4b0a6895ea3d369",
+        "android_client_info": {
+          "package_name": "com.sourcey.materialloginexample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "615762764001-m22vd9u54ta7c1bnji4f0m43is6e5sd1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sourcey.materialloginexample",
+            "certificate_hash": "c7205979151ec9dfcbe2a07f767425322c3a9b4d"
+          }
+        },
+        {
+          "client_id": "615762764001-mvja0v87s8k52mum99s6od48d7j9p5c1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsJ8Q-YGqHSEabo2r9Q28RFgWtE82D8oQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "615762764001-mvja0v87s8k52mum99s6od48d7j9p5c1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
