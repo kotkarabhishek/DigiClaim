@@ -1,4 +1,4 @@
 # DigiClaim
-A mobile insurance claim and validation system using digital image processing
+A mobile insurance claim and validation system using digital image processing.
 A django application for mobile scratch detection using canny edge detection
-and android application for various parameter testing of applications
+and android application for various parameter testing of android phone.
